@@ -10,17 +10,24 @@ Software engineering is a discipline that systematically applies engineering pri
 In the technology industry, software engineering plays a crucial role by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-The development of programming languages like C and Fortran.
-The establishment of software engineering as a discipline in the 1960s.
-The advent of structured programming in the 1970s.
+The Birth of Structured Programming (1960s-1970s): Structured programming introduced a disciplined approach to coding, emphasizing the use of control structures like loops and conditionals, which improved code readability and maintainability.
+
+The Introduction of Object-Oriented Programming (1980s): Object-Oriented Programming (OOP) changed the software development paradigm by organizing software design around objects, or data structures, rather than actions. This helped in managing complex software projects by promoting code reuse and modularity.
+
+The Rise of Agile Methodology (2000s): Agile introduced a more flexible approach to software development, focusing on iterative development, customer collaboration, and responsiveness to change, contrasting with the rigid Waterfall model.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Requirement - Gathering and documenting user needs and system requirements.
-Design - Creating high-level and detailed designs of the software architecture and user interface.
-Implementation - Writing code and building the software according to the design specifications.
-Testing - Conducting various tests to ensure the software meets quality standards and functional requirements.
-Deployment - Releasing the software to users or customers.
-Maintenance - Providing ongoing support, updates, and enhancements to the software after deployment.
+Requirement Analysis: Gathering and documenting the specific requirements of the software from stakeholders.
+
+Design: Creating the architecture and design of the software based on requirements.
+
+Implementation (Coding): Translating the design into actual code by developers.
+
+Testing: Identifying and fixing bugs to ensure the software works as intended.
+
+Deployment: Releasing the software to users or a production environment.
+
+Maintenance: Updating and improving the software after deployment to fix issues or add new features.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 In the waterfall methodology, a sequential approach with distinct phases is utilized. One phase must be completed before another one begins. An example where waterfall methodology can be implemented is in projects with a low risk of unexpected challenges or changes.
@@ -57,8 +64,7 @@ Quality control measures such as code reviews, automated testing, and continuous
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering can be defined as the art of crafting questions or statements to get the best possible responses from AI models.
-Prompt engineering is important because if a vague prompt is given to an AI model, it will end up providing a vague and inaccurate response to the user
+Prompt engineering is the process of crafting and refining inputs (prompts) to guide AI models in generating the desired outputs. It involves designing prompts that are clear, specific, and aligned with the desired outcome. This is crucial for effectively interacting with AI models, as the quality of the prompt directly impacts the relevance and accuracy of the model’s response.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 A vague prompt is "Tell me about Isoko".
