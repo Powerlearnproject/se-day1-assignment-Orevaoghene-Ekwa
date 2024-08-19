@@ -15,6 +15,13 @@ The establishment of software engineering as a discipline in the 1960s.
 The advent of structured programming in the 1970s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+Requirement
+Design
+Implementation
+Testing
+Deployment
+Maintenance
+
 Requirement - Gathering and documenting user needs and system requirements.
 Design - Creating high-level and detailed designs of the software architecture and user interface.
 Implementation - Writing code and building the software according to the design specifications.
