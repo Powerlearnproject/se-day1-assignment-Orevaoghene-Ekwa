@@ -13,7 +13,6 @@ Identify and describe at least three key milestones in the evolution of software
 The development of programming languages like C and Fortran.
 The establishment of software engineering as a discipline in the 1960s.
 The advent of structured programming in the 1970s.
-The rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Requirement - Gathering and documenting user needs and system requirements.
@@ -58,8 +57,8 @@ Quality control measures such as code reviews, automated testing, and continuous
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.
-If a vague prompt is given to an AI model, it will end up providing a vague and inaccurate response to the user
+Prompt engineering can be defined as the art of crafting questions or statements to get the best possible responses from AI models.
+Prompt engineering is important because if a vague prompt is given to an AI model, it will end up providing a vague and inaccurate response to the user
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 A vague prompt is "Tell me about Isoko".
